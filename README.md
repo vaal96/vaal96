@@ -15,7 +15,7 @@ As a programmer, I love learning new things. That's why I am here today.
 <img align="right" alt="GIF" src="Keyboardillustrator1.png" width="408" height="318" />
   
 
-**Talking about Personal Stuffs:**
+**More about me:**
 
 - 👩🏽‍💻I’m currently working on something cool;
 - 👾 I’m currently learning Javascript and Python on [codewars](https://www.codewars.com/users/vaal96);
