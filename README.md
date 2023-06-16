@@ -8,7 +8,7 @@
 
 ### Welcome to my page! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=vaal96.vaal96)
 
-I am currently working on a full-stack developer bootcamp program through UCSD. I love programming, reading, and learning new things.
+I completed a full-stack developer bootcamp program through UCSD and now I am currently refreshing my skills through code academy. I love working out, reading, and learning new things.
 
 As a newbie programmer, I am always ready to learn and create. 
 
